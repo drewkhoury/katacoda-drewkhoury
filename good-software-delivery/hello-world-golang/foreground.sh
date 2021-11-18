@@ -3,6 +3,6 @@ do
   sleep 0.2
 done
 wait.sh
-make
+cd gsd-hello-world
 pwd
-ls -la
+ls

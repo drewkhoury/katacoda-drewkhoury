@@ -2,22 +2,30 @@
   "title": "Hello World (Golang)",
   "description": "Hello World (Golang)",
   "difficulty": "Beginner",
-  "time": "30 minutes",
+  "time": "15 minutes",
   "icon": "fa-docker",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Overview",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Makefile",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Dockerfile",
         "text": "step3.md"
-      }
+      },
+      {
+        "title": "Docker Compose",
+        "text": "step4.md"
+      },
+     {
+        "title": "Demo App (Golang)",
+        "text": "step5.md"
+      }      
     ],
     "intro": {
       "text": "intro.md",
@@ -39,7 +47,11 @@
   },
   "environment": {
     "uieditorpath": "/root/gsd-hello-world",
-    "uilayout": "vscode-terminal-split"
+    "uilayout": "vscode-terminal-split",
+    "showdashboard": true,
+    "dashboards": [
+         {"name": "App UI", "href": "https://[[HOST_SUBDOMAIN]]-1313-[[KATACODA_HOST]].environments.katacoda.com/", "port": 1313}
+    ]
   },
   "backend": {
     "imageid": "ubuntu:2004"

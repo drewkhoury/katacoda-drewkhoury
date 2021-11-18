@@ -1,12 +1,12 @@
 {
   "title": "xxx-Intro to TDD with Java - FORCE_CHANGE",
-  "description": "xxx-FORCE_CHANGE_6 - Introductory course to teach Java developers how to practice Test Driven Development (TDD)",
+  "description": "xxx-FORCE_CHANGE_8 - Introductory course to teach Java developers how to practice Test Driven Development (TDD)",
   "icon" : "fa-java",
   "courses": [
     {
       "course_id": "xxx-scenario-student-tracking-application",
-      "title": "xxx-FORCE_CHANGE_6 - Creating a Student Tracking Application",
-      "description": "xxx-FORCE_CHANGE_6 - Using TDD, we will begin to create a student tracking application"
+      "title": "xxx-FORCE_CHANGE_8 - Creating a Student Tracking Application",
+      "description": "xxx-FORCE_CHANGE_8 - Using TDD, we will begin to create a student tracking application"
     }
   ]
 }
