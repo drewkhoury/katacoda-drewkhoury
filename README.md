@@ -1,5 +1,7 @@
-Drew's Sandbox/Personal: KataCoda Profile: https://www.katacoda.com/drewkhoury
+This is my personal sandbox of katacoda lessons.
 
-Login: GitHub drew.khoury@gmail.com
+**Drew's Sandbox/Personal**
 
-Repo: https://github.com/drewkhoury/katacoda-drewkhoury
+- KataCoda Profile: https://www.katacoda.com/drewkhoury
+- Login: GitHub drew.khoury@gmail.com
+- Repo: https://github.com/drewkhoury/katacoda-drewkhoury
