@@ -1,4 +1,4 @@
-Welcome to the start of your GSD journey. Please be patient as your enviorment loads.
+Welcome to the start of your GSD journey.
 
 # Review the key files
 
