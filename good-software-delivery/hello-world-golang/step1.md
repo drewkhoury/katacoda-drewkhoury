@@ -22,7 +22,7 @@ You can build the app with: `make build`{{execute}}
 
 - Note: We've cached the docker layers in this demo so it should be quick for you
 
-You can run the tests for the app: `make test`{{execute}}
+You can run the tests for the app: `make test`{{execute}} (and these might fail for a valid reason, like not enough test coverage)
 
 You can deploy the app: `make run`{{execute}}
 
